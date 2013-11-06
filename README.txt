@@ -5,3 +5,4 @@ Repositório do projeto da disciplina Sistemas de Informação I da UFCG períod
 Integrantes do grupo:
 Anderson Gustafson
 Allyson Soares
+Guilherme Steinmuller Pimentel
