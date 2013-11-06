@@ -6,3 +6,4 @@ Integrantes do grupo:
 Anderson Gustafson
 Allyson Soares
 Guilherme Steinmuller Pimentel
+Tiago Gonçalves Silva
